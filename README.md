@@ -11,3 +11,12 @@ How to run this project ----
 
 ---
 *© 2026 Developer Courses. All Rights Reserved.*
+## Features
+- Responsive design
+- Simple user interface
+- Easy to use
+
+## Installation
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open index.html in your browser.
